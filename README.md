@@ -11,7 +11,7 @@ This project is a versatile frontend web application that houses several differe
 * **Mini Payroll System:** A foundational business tool designed to calculate basic employee wages, deductions, and net pay.
 
 ## 🚀 Live Demo
-[Click here to view the live website](Replace-this-with-your-live-deployment-link)
+[Click here to view the live website](https://bvadbuenviaje.github.io/cs1130/)
 
 ## 🛠️ Technologies Used
 * HTML5
